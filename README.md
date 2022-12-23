@@ -7,6 +7,8 @@ It's a project where I analyse a football club Data, with the aim of maximizing 
 - Data was taken from a reliable data source: https://fbref.com/en/squads/a77c513e/Benfica-Stats. 
 - Both collective and individual data were considered.
 - Project was made in excel.
+- PowerPoint was used for the final presentations.
+- There's I file named process that was used to help me in my tought process during the project.
 
 
 # [Project 2: Cycling](https://github.com/AndreSantosRaposo/cycling)
@@ -16,3 +18,4 @@ It's a project where I analyze internal data from a fictional company, Cyclistic
 - The data used was the company's internal data from the last 12 months (2021/12–2022/11): https://divvy-tripdata.s3.amazonaws.com/index.html
 - Both member and non-member data were considered and compared.
 - The project was made in SQL and Tableau.
+- PowerPoint was used for the final presentations, but there's a PDF option too.
