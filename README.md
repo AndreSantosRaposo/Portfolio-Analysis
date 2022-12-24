@@ -2,7 +2,7 @@
 
 # [Project 1: Benfica](https://github.com/AndreSantosRaposo/Benfica)
 
-It's a project where I analyse a football club Data, with the aim of maximizing the teams performance
+It's a project where I analyse a football club Data, with the aim of maximizing the team's performance
 
 - Data was taken from a reliable data source: https://fbref.com/en/squads/a77c513e/Benfica-Stats. 
 - Both collective and individual data were considered.
