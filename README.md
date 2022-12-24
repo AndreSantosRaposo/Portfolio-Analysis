@@ -19,3 +19,13 @@ It's a project where I analyze internal data from a fictional company, Cyclistic
 - Both member and non-member data were considered and compared.
 - The project was made in SQL and Tableau.
 - PowerPoint was used for the final presentations, but there's a PDF option too.
+
+
+# [Project 3: Netfliz](https://public.tableau.com/app/profile/andr.6016/viz/netflixDB/Netflix?publish=yes)
+
+It's a project with the objective of displaying Netflix´s movie and series information in a dashboard.
+
+- The data was collected from: https://www.kaggle.com/code/chirag9073/netflix-data-analysis/data?select=netflix_titles.csv.
+- Every film and television series currently available on Netflix.
+- The project was made using Tableau.
+- The final project was presented in a Dashboard.
