@@ -21,7 +21,7 @@ It's a project where I analyze internal data from a fictional company, Cyclistic
 - PowerPoint was used for the final presentations, but there's a PDF option too.
 
 
-# [Project 3: Netfliz](https://public.tableau.com/app/profile/andr.6016/viz/netflixDB/Netflix?publish=yes)
+# [Project 3: Netflix](https://public.tableau.com/app/profile/andr.6016/viz/netflixDB/Netflix?publish=yes)
 
 It's a project with the objective of displaying Netflix´s movie and series information in a dashboard.
 
