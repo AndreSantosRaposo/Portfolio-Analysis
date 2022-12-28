@@ -29,3 +29,14 @@ It's a project with the objective of displaying Netflix´s movie and series info
 - Every film and television series currently available on Netflix.
 - The project was made using Tableau.
 - The final project was presented in a Dashboard.
+
+
+# [Project 4: Software Industry Salary](https://andresantosraposo.github.io/SalaryIT/Presentation/FinalProject.html)
+
+It's a project with the objective of analysing the salaries of software jobs in India in 2022
+
+- Project repository is: https://github.com/AndreSantosRaposo/SalaryIT
+- Data was collected from: https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022?select=Salary_Dataset_with_Extra_Features.csv.
+- Salary data is based on reported values.
+- Project was made using R.
+- Final project was made in R markdown, presented in HTML.
