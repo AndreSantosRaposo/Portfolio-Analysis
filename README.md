@@ -44,7 +44,7 @@ It's a project with the objective of displaying important data about college maj
 
 It's a project with the objective of analysing the salaries of software jobs in India in 2022
 
-- HTML presentation avaiable at: https://andresantosraposo.github.io/SalaryIT/Presentation/FinalProject.html
+- HTML presentation avaiable at: https://andresantosraposo.github.io/SalaryIT/FinalProject.html
 - Project repository is: https://github.com/AndreSantosRaposo/SalaryIT.
 - Data was collected from: https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022?select=Salary_Dataset_with_Extra_Features.csv.
 - Salary data is based on reported values.
