@@ -36,14 +36,14 @@ It's a project with the objective of displaying important data about college maj
 
 - Data was collected from: https://data.world/fivethirtyeight/college-majors, the data is from American Community Survey 2010-2012
 - Only data from the USA was collected.
-- Project was made using R
-- Final project was made using R markdown and presented in HTML
+- Project was made using R.
+- Final project was made using R markdown and presented in HTML.
 
 # [Project 5: Software Industry Salary](https://andresantosraposo.github.io/SalaryIT/Presentation/FinalProject.html)
 
 It's a project with the objective of analysing the salaries of software jobs in India in 2022
 
-- Project repository is: https://github.com/AndreSantosRaposo/SalaryIT
+- Project repository is: https://github.com/AndreSantosRaposo/SalaryIT.
 - Data was collected from: https://www.kaggle.com/datasets/iamsouravbanerjee/software-professional-salaries-2022?select=Salary_Dataset_with_Extra_Features.csv.
 - Salary data is based on reported values.
 - Project was made using R.
