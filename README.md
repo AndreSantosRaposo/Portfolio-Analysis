@@ -30,8 +30,16 @@ It's a project with the objective of displaying Netflix´s movie and series info
 - The project was made using Tableau.
 - The final project was presented in a Dashboard.
 
+# [Projects 4: College majors](https://github.com/AndreSantosRaposo/collegeMajors)
 
-# [Project 4: Software Industry Salary](https://andresantosraposo.github.io/SalaryIT/Presentation/FinalProject.html)
+It's a project with the objective of displaying important data about college majors and their graduates in the USA.
+
+- Data was collected from: https://data.world/fivethirtyeight/college-majors, the data is from American Community Survey 2010-2012
+- Only data from the USA was collected.
+- Project was made using R
+- Final project was made using R markdown and presented in HTML
+
+# [Project 5: Software Industry Salary](https://andresantosraposo.github.io/SalaryIT/Presentation/FinalProject.html)
 
 It's a project with the objective of analysing the salaries of software jobs in India in 2022
 
